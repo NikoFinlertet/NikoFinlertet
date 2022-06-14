@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NikoFinlertet
+- 👀 I’m interested in Pythom
+- 🌱 I’m currently learning C++ and Java
