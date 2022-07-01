@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @NikoFinlertet
-- 👀 I’m interested in Python and C++.
-- 🌱 I’m currently learning Java, C#.
+- 🌱 I’m currently learning Python and C++.
