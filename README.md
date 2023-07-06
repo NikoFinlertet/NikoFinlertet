@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @NikoFinlertet
-- 🌱 I’m currently learning Python and C++.
+- 🌱 I’m currently learning Java.
+  
