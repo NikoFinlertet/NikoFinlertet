@@ -1,16 +1,10 @@
+//
 [![Niko Finlertet](https://readme-typing-svg.demolab.com/?lines=Niko+Finlertet&color=de4c8a)]()
 
 
 
-
-
-
+//WakaTime
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/NikoFinlertet/WakaTimeAPI_Key/blob/main/README.md"
   alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
 />
