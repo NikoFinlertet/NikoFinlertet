@@ -14,10 +14,15 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          ### meta
+          API_BASE_URL: https://wakatime.com/api
+          ### content
           SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: all_time
           BLOCKS: ._/|
           SHOW_TIME: true
           SHOW_TOTAL: true
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML TXT # optional
           AUTHOR_NAME: Niko Finlertet
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
