@@ -14,4 +14,10 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          SHOW_TITLE: true
+          BLOCKS: ._/|
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          AUTHOR_NAME: Niko Finlertet
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
