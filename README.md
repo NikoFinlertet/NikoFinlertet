@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 03 March 2025
+From: 05 May 2024 - To: 04 March 2025
 
-Total Time: 3 hrs 16 mins
+Total Time: 4 hrs 58 mins
 
-Java             1 hr 57 mins    |||||||||||||||..........   59.91 %
-jsonc            20 mins         ||/......................   10.53 %
-C++              18 mins         ||_......................   09.65 %
-Text             8 mins          |........................   04.28 %
+Java             1 hr 57 mins    |||||||||/...............   39.17 %
+Lua              1 hr            |||||....................   20.30 %
+C++              31 mins         ||/......................   10.42 %
+jsonc            20 mins         |/.......................   06.88 %
 ```
 
 <!--END_SECTION:waka-->
