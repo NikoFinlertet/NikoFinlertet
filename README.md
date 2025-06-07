@@ -5,7 +5,7 @@
 <div>
   <h1 align="center">About Me</h1>
     <div align="center">
-      <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+      <img src="https://64.media.tumblr.com/753cecd3e4eafb916e634db43fb5ac28/71df3f8a7be83c9b-ee/s500x750/9d3eae262784094f48a1da292f334dab0da6f714.gif" align="right">
     </div>
   <li>
  <b>Name:</b> Niko</li>
