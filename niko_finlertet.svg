@@ -1,0 +1,14 @@
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
+    text {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: bold;
+      font-size: 48px;
+      fill: black;
+      dominant-baseline: middle;
+      text-anchor: middle;
+    }
+  </style>
+  <text x="50%" y="50%">Niko Finlertet</text>
+</svg>
