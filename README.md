@@ -11,7 +11,7 @@
 <b>Hobbys:</b> Economics, Tech Stuff, Graphic Design, Web Development -> I'm Creative person🐱
 </li>
 <li>
-<b>Working:</b> hao.vc
+<b>Working:</b> hao.vc; Some kind of Programmers;
 </li>
 <br><br><br>
 
