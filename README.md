@@ -10,18 +10,17 @@
 <li>
 <b>Hobbys:</b> Economics, Tech Stuff, Graphic Design, Web Development -> I'm Creative person🐱
 </li>
-<li>
-<b>Working:</b> hao.vc; Some kind of Programmers;
-</li>
+  
 <br><br><br>
-
 </div>
 
 <!-- Тут расположить контакты + проекты(написать не портфолио, а сайт для моих проектов и распространять этот репозиторий как портфолио?) -->
 
-<h1 align="center">Achievements</h1>
-<a href="https://hao.vc/"><p>HAO</p></a>
-
+<div>
+  <h1 align="center">Achievements</h1>
+  <p>Working in <a href="https://hao.vc/">HAO</a></p>
+  <p>Co-founder SCOP<a href="t.me/some_kind_of_programmers"></a></p>
+</div>
 
 <h1 align="center">𝗖𝗼𝗱𝗲 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h1>
 
