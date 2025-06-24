@@ -4,12 +4,9 @@
       <img src="https://64.media.tumblr.com/753cecd3e4eafb916e634db43fb5ac28/71df3f8a7be83c9b-ee/s500x750/9d3eae262784094f48a1da292f334dab0da6f714.gif" align="right">
     </div>
   <h3 align="center">Niko Finlertet</h3>
-<li>
+
 <b>Loves:</b> Philosophy, anime, sandbox and strategy games, and create interesting projects.
-</li>
-<li>
 <b>Hobbys:</b> Economics, Tech Stuff, Graphic Design, Web Development -> I'm Creative person🐱
-</li>
   
 <br><br><br>
 </div>
@@ -18,8 +15,8 @@
 
 <div>
   <h1 align="center">Achievements</h1>
-  <p>Working in <a href="https://hao.vc/">HAO</a></p>
-  <p>Co-founder SCOP<a href="https://t.me/some_kind_of_programmers"></a></p>
+  <li><p>Working in <a href="https://hao.vc/">HAO</a></p></li>
+  <li><p>Co-founder SCOP<a href="https://t.me/some_kind_of_programmers"></a></p></li>
 </div>
 
 <h1 align="center">𝗖𝗼𝗱𝗲 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h1>
