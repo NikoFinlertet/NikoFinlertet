@@ -19,7 +19,7 @@
 <div>
   <h1 align="center">Achievements</h1>
   <p>Working in <a href="https://hao.vc/">HAO</a></p>
-  <p>Co-founder SCOP<a href="t.me/some_kind_of_programmers"></a></p>
+  <p>Co-founder SCOP<a href="https://t.me/some_kind_of_programmers"></a></p>
 </div>
 
 <h1 align="center">𝗖𝗼𝗱𝗲 𝗮𝗰𝘁𝗶𝘃𝗶𝘁𝘆</h1>
