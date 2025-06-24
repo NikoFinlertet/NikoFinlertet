@@ -8,7 +8,7 @@
 <b>Loves:</b> Philosophy, anime, sandbox and strategy games, and create interesting projects.
 <b>Hobbys:</b> Economics, Tech Stuff, Graphic Design, Web Development -> I'm Creative person🐱
   
-<br><br><br>
+---
 </div>
 
 <!-- Тут расположить контакты + проекты(написать не портфолио, а сайт для моих проектов и распространять этот репозиторий как портфолио?) -->
