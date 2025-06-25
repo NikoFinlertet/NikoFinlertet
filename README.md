@@ -14,7 +14,6 @@
 
 <div>
   <h1 align="center">Achievements</h1>
-  <li><p>Working in <a href="https://hao.vc/">HAO</a></p></li>
   <li><p>Co-founder <a href="https://t.me/some_kind_of_programmers/">SCOP</a></p></li>
 </div>
 
