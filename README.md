@@ -25,15 +25,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 18 August 2025
+From: 05 May 2024 - To: 19 August 2025
 
-Total Time: 36 hrs 26 mins
+Total Time: 37 hrs 35 mins
 
-Markdown         10 hrs 50 mins  |||||||_.................   29.73 %
-Go               6 hrs 38 mins   ||||/....................   18.19 %
-TypeScript       6 hrs 10 mins   ||||_....................   16.90 %
-Rust             4 hrs 48 mins   |||_.....................   13.19 %
-Java             1 hr 57 mins    |_.......................   05.37 %
+Markdown         10 hrs 59 mins  |||||||_.................   29.22 %
+Go               6 hrs 38 mins   ||||_....................   17.64 %
+TypeScript       6 hrs 10 mins   ||||.....................   16.39 %
+Rust             5 hrs 48 mins   ||||.....................   15.42 %
+Java             1 hr 57 mins    |_.......................   05.20 %
 ```
 
 <!--END_SECTION:waka-->
