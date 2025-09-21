@@ -11,6 +11,12 @@
 </div>
 
 <!-- Тут расположить контакты + проекты(написать не портфолио, а сайт для моих проектов и распространять этот репозиторий как портфолио?) -->
+<div>
+  <h1 align="center">Work in</h1>
+  <li><p><a href="https://hao.vc/">Hao.vc</a></p></li>
+  <li><p>QBDevelopment</p></li>
+</div>
+
 
 <div>
   <h1 align="center">Achievements</h1>
