@@ -31,12 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 30 October 2025
+From: 05 May 2024 - To: 31 October 2025
 
 Total Time: 97 hrs 45 mins
 
 Rust             33 hrs 47 mins  ||||||||/................   34.40 %
-TypeScript       18 hrs 13 mins  ||||/....................   18.56 %
+TypeScript       18 hrs 13 mins  ||||/....................   18.55 %
 Markdown         13 hrs 34 mins  |||_.....................   13.82 %
 Go               11 hrs 8 mins   |||......................   11.34 %
 Python           3 hrs 14 mins   /........................   03.30 %
